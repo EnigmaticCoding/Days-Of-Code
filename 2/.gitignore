@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # TE folders
-*.exercise/*
+.exercise/*
