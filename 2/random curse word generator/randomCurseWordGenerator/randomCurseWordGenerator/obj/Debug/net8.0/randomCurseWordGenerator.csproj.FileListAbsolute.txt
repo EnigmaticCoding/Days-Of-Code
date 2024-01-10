@@ -1,0 +1,15 @@
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\bin\Debug\net8.0\randomCurseWordGenerator.exe
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\bin\Debug\net8.0\randomCurseWordGenerator.deps.json
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\bin\Debug\net8.0\randomCurseWordGenerator.runtimeconfig.json
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\bin\Debug\net8.0\randomCurseWordGenerator.dll
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\bin\Debug\net8.0\randomCurseWordGenerator.pdb
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.AssemblyInfoInputs.cache
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.AssemblyInfo.cs
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.sourcelink.json
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.dll
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\refint\randomCurseWordGenerator.dll
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.pdb
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\randomCurseWordGenerator.genruntimeconfig.cache
+C:\Users\bakac\Source\Repos\Days of Code\2\random curse word generator\randomCurseWordGenerator\randomCurseWordGenerator\obj\Debug\net8.0\ref\randomCurseWordGenerator.dll
